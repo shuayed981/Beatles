@@ -1,0 +1,2 @@
+'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
